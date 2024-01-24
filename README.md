@@ -5,19 +5,16 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
-- 🔭 I’m currently working on -**Project - credit card fraud detection**
+- 🔭 I’m currently working on -** Customer Engagement Dashboard **
 
-- 🌱 I’m currently learning - **Machine Learning.**
+- 🌱 I’m currently learning - ** Building dashboards and unlocking insights with Tableau & Power BI **
 
 - 👨‍💻 All of my projects are available at - [https://www.linkedin.com/in/mrityunjaysingh11](https://www.linkedin.com/in/mrityunjaysingh11)
 
 - 📫 How to reach me - **singhmrityunjay9990@gmail.com**
 
-- ⚡ Fun fact - ****"Can code like Goku fights, always striving to level up!" 
-                    "Data is my Bulma, I'll build insights even more badass than her capsule creations."
-                     "My Excel skills are Saiyan-strong, ready to crush any spreadsheet challenge."
-                      "Tableau & Power BI? More like Dragon Ball fusion, I combine their strengths for epic dashboards."
-                       "My code might not go Super Saiyan, but it's always working on its Kamehameha!"** **
+- ⚡ Fun fact - ** Tableau & Power BI. More like Dragon Ball fusion, I combine their strengths for epic dashboards. **
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,3 +27,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=singhmrityunjay9990&show_icons=true&locale=en&layout=compact" alt="singhmrityunjay9990" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singhmrityunjay9990&show_icons=true&locale=en" alt="singhmrityunjay9990" /></p>
+
