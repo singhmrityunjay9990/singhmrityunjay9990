@@ -13,7 +13,11 @@
 
 - 📫 How to reach me - **singhmrityunjay9990@gmail.com**
 
-- ⚡ Fun fact - **I'm funny😓**
+- ⚡ Fun fact - ****"Can code like Goku fights, always striving to level up!" 
+                    "Data is my Bulma, I'll build insights even more badass than her capsule creations."
+                     "My Excel skills are Saiyan-strong, ready to crush any spreadsheet challenge."
+                      "Tableau & Power BI? More like Dragon Ball fusion, I combine their strengths for epic dashboards."
+                       "My code might not go Super Saiyan, but it's always working on its Kamehameha!"** **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
